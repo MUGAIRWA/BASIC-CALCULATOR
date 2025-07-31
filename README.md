@@ -18,7 +18,7 @@ This is a simple Python-based calculator that performs basic arithmetic operatio
 2. Save the calculator script as `calculator.py`.
 3. Open a terminal or command prompt.
 4. Run the program:
-
+``` bash
 python calculator.py
 
 # Example
